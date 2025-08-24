@@ -115,7 +115,7 @@ const API_SITES = {
         name: '量子资源站'
     },
     ckzy: {
-        api: 'https://www.ckzy1.com',
+        api: 'https://www.ckzy.com',
         name: 'CK资源',
         adult: true
     },
